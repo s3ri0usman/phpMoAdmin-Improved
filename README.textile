@@ -1,3 +1,12 @@
+_Notice: It's just modification of the original moadmin. Minimal PHP version: 5.5_
+
+_Feachures list:_
+
+* New collection import/export data format, compatible with original mongoimport
+* Fixed memory leaking on large collections import and export
+
+<hr>
+
 h1. phpMoAdmin
 
 h2. MongoDB administration tool for PHP
